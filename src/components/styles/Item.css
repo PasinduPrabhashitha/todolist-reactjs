@@ -1,0 +1,11 @@
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 1.5rem 4rem;
+  border-bottom: 1px dotted rgb(184, 184, 255);
+}
+
+.list-item p {
+  margin-left: 10px;
+}

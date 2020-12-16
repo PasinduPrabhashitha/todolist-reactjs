@@ -1,0 +1,31 @@
+.input-area {
+  margin: 2rem 2rem;
+}
+
+.text-input {
+  width: 80%;
+  height: 2.2rem;
+  background: rgb(45, 45, 134);
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  color: white;
+  padding: 10px;
+}
+
+.submit-button {
+  height: 2.2rem;
+  width: 3.5rem;
+  margin-left: 10px;
+  background: rgb(45, 45, 134);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  outline: none;
+}
+
+@media only screen and (max-width: 660px) {
+  .text-input {
+    width: 70%;
+  }
+}

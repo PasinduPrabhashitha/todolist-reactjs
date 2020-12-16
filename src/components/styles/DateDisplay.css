@@ -1,0 +1,18 @@
+.date {
+  background: midnightblue;
+  color: white;
+  border-radius: 10px;
+  margin: 8px;
+  height: 2.7rem;
+  text-align: center;
+}
+
+.main-heading {
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+.date-text {
+  font-size: 20px;
+  padding-top: 10px;
+}
